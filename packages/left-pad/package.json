@@ -1,0 +1,9 @@
+{
+  "name": "left-pad",
+  "version": "1.33.7",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "volta": {
+    "extends": "../../package.json"
+  }
+}

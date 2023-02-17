@@ -1,0 +1,12 @@
+{
+  "name": "@workspace-resolution-example/core",
+  "scripts": {
+    "foo": "node ./index.js"
+  },
+  "dependencies": {
+    "format-date": "^1.0.0"
+  },
+  "volta": {
+    "extends": "../../package.json"
+  }
+}
